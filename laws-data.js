@@ -744,7 +744,7 @@ window.NSK_LAWS_DATA = {
           "items": [
             {
               "title": "คู่มือ เรื่อง การจัดทำงบกระแสเงินสด",
-              "url": "https://www.cad.go.th/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AF-%E0%B8%9A%E0%B8%8A/",
+              "url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.1.7-%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%94.pdf",
               "important": true
             },
             {
