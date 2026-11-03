@@ -1,0 +1,786 @@
+{
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.06-an_registrar_25640907.pdf": {
+    "file": "pdf/4.2.06-an_registrar_25640907-d85dbf6d.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.06-an_registrar_25640907.pdf",
+    "bytes": 412435,
+    "sha256": "d85dbf6d5a6f5c7aabc9afa2ea547ee67f4944f62815cf620af39c144781a151",
+    "downloaded_at": "2026-11-03T18:48:05"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.10-an_registrar_25630402.pdf": {
+    "file": "pdf/4.2.10-an_registrar_25630402-34867b09.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.10-an_registrar_25630402.pdf",
+    "bytes": 57940,
+    "sha256": "34867b09767fd663c34a384152bdd8582116b45613b069042bff48edcb5d4787",
+    "downloaded_at": "2026-11-03T18:48:06"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.11-an_registrar_25630330.pdf": {
+    "file": "pdf/4.2.11-an_registrar_25630330-808db6c5.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.11-an_registrar_25630330.pdf",
+    "bytes": 851741,
+    "sha256": "808db6c5733b564bf691c381ddbf93c5497c2a3214c4c58f525df55030dbd7c9",
+    "downloaded_at": "2026-11-03T18:48:07"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.12-an_registrar_25630318_covid.pdf": {
+    "file": "pdf/4.2.12-an_registrar_25630318_covid-5baf4eb8.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.12-an_registrar_25630318_covid.pdf",
+    "bytes": 132526,
+    "sha256": "5baf4eb8215b2b7605d6d4bdb3b6328e979c858d87186810a5cb0418be0d7970",
+    "downloaded_at": "2026-11-03T18:48:08"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.13-an_registrar_25630318.pdf": {
+    "file": "pdf/4.2.13-an_registrar_25630318-15e00c9e.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.13-an_registrar_25630318.pdf",
+    "bytes": 72306,
+    "sha256": "15e00c9eee2ae68abfa038765e050346b3d04e4058fee76c5ea8690093d6604b",
+    "downloaded_at": "2026-11-03T18:48:09"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.28-an_registrar_25600824_v109.pdf": {
+    "file": "pdf/4.2.28-an_registrar_25600824_v109-1b9fbd34.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.28-an_registrar_25600824_v109.pdf",
+    "bytes": 1046750,
+    "sha256": "1b9fbd34909b93a8217007cc2fbff54e5c617fc668247f3b73d608933548c0f5",
+    "downloaded_at": "2026-11-03T18:48:10"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.35-an_registrar_25561123.pdf": {
+    "file": "pdf/4.2.35-an_registrar_25561123-571f67c1.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.35-an_registrar_25561123.pdf",
+    "bytes": 679293,
+    "sha256": "571f67c13f6d5bdc40535c0917182ae995f92435cf738054f535a23207db924d",
+    "downloaded_at": "2026-11-03T18:48:11"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.37-an_registrar_25530303.pdf": {
+    "file": "pdf/4.2.37-an_registrar_25530303-98e511ae.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.37-an_registrar_25530303.pdf",
+    "bytes": 573185,
+    "sha256": "98e511ae8c054f331a4474456f68272e7e7bba9354123edc94462171465c88c7",
+    "downloaded_at": "2026-11-03T18:48:12"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.38-an_registrar_25521217.pdf": {
+    "file": "pdf/4.2.38-an_registrar_25521217-ead0e426.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.38-an_registrar_25521217.pdf",
+    "bytes": 552071,
+    "sha256": "ead0e426f2c53d7e199bcda8ad70a23bbb987e3d3e6355b3080d7584478060c8",
+    "downloaded_at": "2026-11-03T18:48:13"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.39-an_registrar_25520825.pdf": {
+    "file": "pdf/4.2.39-an_registrar_25520825-6f832961.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.39-an_registrar_25520825.pdf",
+    "bytes": 580795,
+    "sha256": "6f8329616889623415bf073d782bfa63970c254434c26d8a8f94089d5970a55b",
+    "downloaded_at": "2026-11-03T18:48:14"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/4.2.43-an_registrar_25431010.pdf": {
+    "file": "pdf/4.2.43-an_registrar_25431010-183b8bcd.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.43-an_registrar_25431010.pdf",
+    "bytes": 570956,
+    "sha256": "183b8bcd1f347c8487e3840b4d5977e3ae65be7ae699645cb10d10eb81c447b8",
+    "downloaded_at": "2026-11-03T18:48:15"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.07-reg_registrar_25640930.pdf": {
+    "file": "pdf/6.01.07-reg_registrar_25640930-8fbb6643.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.07-reg_registrar_25640930.pdf",
+    "bytes": 96068,
+    "sha256": "8fbb66438bed1bc9029f9faf092487fde5de2aac522b5471817a57ab8761732f",
+    "downloaded_at": "2026-11-03T18:48:16"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.08-reg_registrar_25640930.pdf": {
+    "file": "pdf/6.01.08-reg_registrar_25640930-3cf3bcc5.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.08-reg_registrar_25640930.pdf",
+    "bytes": 131629,
+    "sha256": "3cf3bcc5364028fef215db090c5d16174c2e568132d1509c22dead617ba24587",
+    "downloaded_at": "2026-11-03T18:48:17"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.08.1-r-110465.pdf": {
+    "file": "pdf/6.01.08.1-r-110465-dfb738be.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.08.1-r-110465.pdf",
+    "bytes": 228249,
+    "sha256": "dfb738bed0b25826a1c10cf9c412f170d849a85856ca7b25cae394ab5020dc36",
+    "downloaded_at": "2026-11-03T18:48:18"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.35-download1202_2553.pdf": {
+    "file": "pdf/6.01.35-download1202_2553-c2b4e440.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.35-download1202_2553.pdf",
+    "bytes": 557060,
+    "sha256": "c2b4e440953180c82e73440361a36b1ebdba288df06989d6ccca2b19cd54733c",
+    "downloaded_at": "2026-11-03T18:48:19"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.36-download2508_2552.pdf": {
+    "file": "pdf/6.01.36-download2508_2552-7299877f.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.36-download2508_2552.pdf",
+    "bytes": 568901,
+    "sha256": "7299877fce4f063860c0ef27f0e89a3b99ef2e6ed2b9ae8a3ce34e166a0f5540",
+    "downloaded_at": "2026-11-03T18:48:20"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.37-download2110_2548.pdf": {
+    "file": "pdf/6.01.37-download2110_2548-a0708818.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.37-download2110_2548.pdf",
+    "bytes": 546282,
+    "sha256": "a070881828e04817026d3d4c550cfb4933a4253924032a779fb6ec10dfaba9e2",
+    "downloaded_at": "2026-11-03T18:48:21"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.38-download2103_2548.pdf": {
+    "file": "pdf/6.01.38-download2103_2548-bb5fccfc.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.38-download2103_2548.pdf",
+    "bytes": 561503,
+    "sha256": "bb5fccfc60ecf2c6f4abcb4f23b6b1b0005c53eeecfab4f392e093ae963e3c8a",
+    "downloaded_at": "2026-11-03T18:48:22"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.39-download1911_2547.pdf": {
+    "file": "pdf/6.01.39-download1911_2547-ce450731.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.39-download1911_2547.pdf",
+    "bytes": 69178,
+    "sha256": "ce45073198e79e2b5faec7c1df3c894d7f5dce403914198cb6e87b766a46b904",
+    "downloaded_at": "2026-11-03T18:48:23"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.41-download2702_2547.pdf": {
+    "file": "pdf/6.01.41-download2702_2547-50c6e495.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.41-download2702_2547.pdf",
+    "bytes": 563948,
+    "sha256": "50c6e4952f858e1e7ede31739efb80d16dd0614bd1966116e2d3eebbd041c62d",
+    "downloaded_at": "2026-11-03T18:48:24"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.47-download1902_2546.pdf": {
+    "file": "pdf/6.01.47-download1902_2546-6c08d816.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.47-download1902_2546.pdf",
+    "bytes": 550420,
+    "sha256": "6c08d816366b12459762226256a042e5eead9f5e64700dda8d39f29aff9758f6",
+    "downloaded_at": "2026-11-03T18:48:25"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.49-download0801_2544.pdf": {
+    "file": "pdf/6.01.49-download0801_2544-1e309884.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.49-download0801_2544.pdf",
+    "bytes": 545913,
+    "sha256": "1e309884823b5ddde14dd0e8ab88c9556afca8d88f50f65fe6adf95092bb19b9",
+    "downloaded_at": "2026-11-03T18:48:26"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/6.01.50-download0704_2543.pdf": {
+    "file": "pdf/6.01.50-download0704_2543-b203dabe.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.50-download0704_2543.pdf",
+    "bytes": 448180,
+    "sha256": "b203dabe840a31eebcc35a51d7b07c7d46c02b454f43ddee0a019251e993ba22",
+    "downloaded_at": "2026-11-03T18:48:27"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/7.3.3.08-acc_20240326_1531_v78910.pdf": {
+    "file": "pdf/7.3.3.08-acc_20240326_1531_v78910-5e7783c7.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/7.3.3.08-acc_20240326_1531_v78910.pdf",
+    "bytes": 1958494,
+    "sha256": "5e7783c700d3201e1fb37d33ba98b37399108f2f0cb7d32fdd40102cd25b5f88",
+    "downloaded_at": "2026-11-03T18:48:29"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/7.3.3.15-acc_25660628_0404_v40-41.pdf": {
+    "file": "pdf/7.3.3.15-acc_25660628_0404_v40-41-b39ccdf8.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/7.3.3.15-acc_25660628_0404_v40-41.pdf",
+    "bytes": 1400878,
+    "sha256": "b39ccdf8ceb42fe9b4a9b7da0c48065e8c102407d90473641f5ab8e076523db1",
+    "downloaded_at": "2026-11-03T18:48:30"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/7.3.3.21-acc_20240326_1525_v5960.pdf": {
+    "file": "pdf/7.3.3.21-acc_20240326_1525_v5960-ad9cb821.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/7.3.3.21-acc_20240326_1525_v5960.pdf",
+    "bytes": 2706738,
+    "sha256": "ad9cb82155911bf7ea2a2be8253dda9a02401a1c03c2afc8c3c005710cc261b7",
+    "downloaded_at": "2026-11-03T18:48:31"
+  },
+  "http://cad.go.th/wp-content/uploads/2025/12/7.3.3.33-acc_20220324_1847_15.pdf": {
+    "file": "pdf/7.3.3.33-acc_20220324_1847_15-48ba1cc9.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/7.3.3.33-acc_20220324_1847_15.pdf",
+    "bytes": 533989,
+    "sha256": "48ba1cc9afb3ac73ab56bbac95042e244a0633d330dc8fbe3671f0ca95793d86",
+    "downloaded_at": "2026-11-03T18:48:32"
+  },
+  "http://e-service.cpd.go.th/elib/pdf_file/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%20%E0%B8%84%E0%B8%9E%E0%B8%8A.%20%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9D%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99.pdf": {
+    "file": "pdf/ประกาศ_คพช._เรื่อง_ข้อกำหนดการฝากหรือลงทุน-d2c01729.pdf",
+    "final_url": "http://e-service.cpd.go.th/elib/pdf_file/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%20%E0%B8%84%E0%B8%9E%E0%B8%8A.%20%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9D%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99.pdf",
+    "bytes": 508782,
+    "sha256": "d2c0172900b8722471660edbb777e96082c576e68e8eb3e0393ae73c9b132420",
+    "downloaded_at": "2026-11-03T18:48:54"
+  },
+  "http://e-service.cpd.go.th/elib/pdf_file/%E0%B8%9E.%E0%B8%A3.%E0%B8%9A.%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%20%E0%B8%9E.%E0%B8%A8.%202542%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf": {
+    "file": "pdf/พ.ร.บ.สหกรณ์_พ.ศ._2542_และที่แก้ไขเพิ่มเติม-b1f2e035.pdf",
+    "final_url": "http://e-service.cpd.go.th/elib/pdf_file/%E0%B8%9E.%E0%B8%A3.%E0%B8%9A.%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%20%E0%B8%9E.%E0%B8%A8.%202542%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf",
+    "bytes": 488561,
+    "sha256": "b1f2e035ffcda63bf18795e677121c3e348e30f1b2d6bb38022b15b8200366f9",
+    "downloaded_at": "2026-11-03T18:48:55"
+  },
+  "http://e-service.cpd.go.th/elib/pdf_file/1.%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1.pdf": {
+    "file": "pdf/1.ลักษณะต้องห้าม-527a15dd.pdf",
+    "final_url": "http://e-service.cpd.go.th/elib/pdf_file/1.%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1.pdf",
+    "bytes": 71131,
+    "sha256": "527a15dd897344fd03c58545db33dc2452fda24e2176cd8ef2540bbd61277cb9",
+    "downloaded_at": "2026-11-03T18:48:56"
+  },
+  "https://cad.go.th/wp-content/uploads/2025/12/4.2.01-%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2.pdf": {
+    "file": "pdf/4.2.01-อัตราดอกเบี้ย-a444fbe2.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.2.01-%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2.pdf",
+    "bytes": 46377,
+    "sha256": "a444fbe238a28c0786b4aff537de0c03d5e75fdb4682dd737a6332c9b521ccec",
+    "downloaded_at": "2026-11-03T18:48:57"
+  },
+  "https://cad.go.th/wp-content/uploads/2025/12/4.3.06-an_cad_25631014_v61.pdf": {
+    "file": "pdf/4.3.06-an_cad_25631014_v61-65af54bf.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/4.3.06-an_cad_25631014_v61.pdf",
+    "bytes": 2889727,
+    "sha256": "65af54bfb799c7ab3f6fa867fda63f0f0cfae475e21e7135411f4850364f321d",
+    "downloaded_at": "2026-11-03T18:48:58"
+  },
+  "https://cad.go.th/wp-content/uploads/2025/12/6.01.09-reg_registrar_25640827.pdf": {
+    "file": "pdf/6.01.09-reg_registrar_25640827-caa67544.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.09-reg_registrar_25640827.pdf",
+    "bytes": 102545,
+    "sha256": "caa6754476520ba3e7943564eb3f4d720855bc143fc5d2ec4058166943ec9d10",
+    "downloaded_at": "2026-11-03T18:48:59"
+  },
+  "https://cad.go.th/wp-content/uploads/2025/12/6.01.16-download3004_2561.pdf": {
+    "file": "pdf/6.01.16-download3004_2561-95b8f09f.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.16-download3004_2561.pdf",
+    "bytes": 281667,
+    "sha256": "95b8f09f8349e2690ccb6a95ba3aa67ee35d08d11903d8c4b77869ee23fc1a45",
+    "downloaded_at": "2026-11-03T18:49:00"
+  },
+  "https://cad.go.th/wp-content/uploads/2025/12/6.01.34-download1712_2553.pdf": {
+    "file": "pdf/6.01.34-download1712_2553-7970dc15.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/6.01.34-download1712_2553.pdf",
+    "bytes": 13086719,
+    "sha256": "7970dc15b3f2342c6cd63c988314908f6ce5b3d465b218c4a8ced16b264a8b3f",
+    "downloaded_at": "2026-11-03T18:49:01"
+  },
+  "https://ratchakitcha.soc.go.th/documents/106780.pdf": {
+    "file": "pdf/106780-986cc8e3.pdf",
+    "final_url": "https://ratchakitcha.soc.go.th/documents/106780.pdf",
+    "bytes": 44027,
+    "sha256": "986cc8e31b54e55aec196b9936b8348ff5315f6f3adf13894f2ce271591482a3",
+    "downloaded_at": "2026-11-03T18:49:03"
+  },
+  "https://smartauditor.cad.go.th/law/document/R1grbkNwL0gvc0doRElST0hDR3Q1Zz09": {
+    "file": "pdf/guideline_cad_25670219_35-9dd21636.pdf",
+    "final_url": "https://smartauditor.cad.go.th/uploads/document/%E0%B8%9B%E0%B8%B5%202567/guideline_cad_25670219_35.pdf",
+    "bytes": 4091535,
+    "sha256": "9dd21636422c8d5cf3421e2607c72159eafc2364f1200b2110ba5ac2b7a367c8",
+    "downloaded_at": "2026-11-03T18:49:05"
+  },
+  "https://smartauditor.cad.go.th/law/document/U1B4U1RhcExxRW1TNis4TVFiVXlTQT09": {
+    "file": "pdf/guideline_cad_25670906_v162-c0c0948d.pdf",
+    "final_url": "https://smartauditor.cad.go.th/uploads/document/%E0%B8%9B%E0%B8%B5%202567/guideline_cad_25670906_v162.pdf",
+    "bytes": 3846833,
+    "sha256": "c0c0948d69c7c7acfb3594ebdfb4be135f237d867b9e889fdf5c869938cbd703",
+    "downloaded_at": "2026-11-03T18:49:07"
+  },
+  "https://www.cad.go.th/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AF-%E0%B8%9A%E0%B8%8A/": {
+    "file": "pdf/1.3-พรบ.act_19990412_prbcoop-3cc51697.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/02/1.3-%E0%B8%9E%E0%B8%A3%E0%B8%9A.act_19990412_prbcoop.pdf",
+    "bytes": 393499,
+    "sha256": "3cc51697a7d748820ce721ac8112dca23a6db7d468fbdc616d57b962baaa7959",
+    "downloaded_at": "2026-11-03T18:49:09"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81/": {
+    "file": "pdf/3.2.1-reg_20141230_cad2-0c3748a3.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.1-reg_20141230_cad2.pdf",
+    "bytes": 96571,
+    "sha256": "0c3748a3489fbaa9c6bd568c1d9c02f424102c5abfab574120eaeaeed0ca015c",
+    "downloaded_at": "2026-11-03T18:49:11"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99-2/": {
+    "file": "pdf/3.2.3-rule_20220324_1826_1_1-3944975c.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.3-rule_20220324_1826_1_1.pdf",
+    "bytes": 151718,
+    "sha256": "3944975ccf13b2de2c0f973c569dc7c97367bccdc45130d52f74674ea4b126f8",
+    "downloaded_at": "2026-11-03T18:49:12"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%82%E0%B8%AD/": {
+    "file": "pdf/3.2.6-article_20160314103757-89dc893e.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.6-article_20160314103757.pdf",
+    "bytes": 77937,
+    "sha256": "89dc893e05baf8169a45f7aff7e1e135adb88a3afe7773699f70b5556ca3494d",
+    "downloaded_at": "2026-11-03T18:49:14"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0-%E0%B8%A7%E0%B8%B1/": {
+    "file": "pdf/3.2.2-rule_25671125_68-208d6709.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.2-rule_25671125_68.pdf",
+    "bytes": 149912,
+    "sha256": "208d670902541d3f3dd5e108638edc251c4c20b84da5319a9a80edd21761be53",
+    "downloaded_at": "2026-11-03T18:49:16"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B9%88%E0%B8%B2/": {
+    "file": "pdf/3.2.4-rule_20200220_25012560-d77890ee.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.4-rule_20200220_25012560.pdf",
+    "bytes": 37757,
+    "sha256": "d77890eea7c0b983030ae80ee2379af9261671a08b081d97bbc83ad5bf5914cb",
+    "downloaded_at": "2026-11-03T18:49:18"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%9E-%E0%B8%A8-2543-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/": {
+    "file": "pdf/3.2.7-article_20160314103717-fe525ae0.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.7-article_20160314103717.pdf",
+    "bytes": 245652,
+    "sha256": "fe525ae024507c94929ca94cc514c9ff28b52f8b65fe7ee95921611393eb5491",
+    "downloaded_at": "2026-11-03T18:49:19"
+  },
+  "https://www.cad.go.th/ova_doc/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B8%A3/": {
+    "file": "pdf/3.2.5-article_20160314103819-677295b5.pdf",
+    "final_url": "https://cad.go.th/wp-content/uploads/2025/12/3.2.5-article_20160314103819.pdf",
+    "bytes": 76132,
+    "sha256": "677295b55b09cab114a763443afd8bc786e3aabd3ca63bca0cf3686fd1ee50df",
+    "downloaded_at": "2026-11-03T18:49:21"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/6.01.10-reg_registrar_25640311.pdf": {
+    "file": "pdf/6.01.10-reg_registrar_25640311-90e7f79c.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/6.01.10-reg_registrar_25640311.pdf",
+    "bytes": 106058,
+    "sha256": "90e7f79c2c3d973cde28ca931b578448cc44f191f1737498837abe4199f30b64",
+    "downloaded_at": "2026-11-03T18:49:22"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.02-advice_cad_20180628.pdf": {
+    "file": "pdf/7.1.2.02-advice_cad_20180628-ed8945c5.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.02-advice_cad_20180628.pdf",
+    "bytes": 42025946,
+    "sha256": "ed8945c570646fdf336ea8134fa89f39cfc94287d7f8bafe756db17e4dfde062",
+    "downloaded_at": "2026-11-03T18:49:24"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.03-advice_cad_20171219.pdf": {
+    "file": "pdf/7.1.2.03-advice_cad_20171219-66c0cd79.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.03-advice_cad_20171219.pdf",
+    "bytes": 6456896,
+    "sha256": "66c0cd7954da05f817b37fe01213567b38c919b1cadc924a1befd52e594309b9",
+    "downloaded_at": "2026-11-03T18:49:25"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.04-advice_cad_20171213.pdf": {
+    "file": "pdf/7.1.2.04-advice_cad_20171213-f81d6335.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.04-advice_cad_20171213.pdf",
+    "bytes": 5111975,
+    "sha256": "f81d6335f6592cf03a48667d2f0ecfdd5b0f46cdd913817d34a71ab16be1f3f2",
+    "downloaded_at": "2026-11-03T18:49:26"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.06-advice_cad_20160920_v86.pdf": {
+    "file": "pdf/7.1.2.06-advice_cad_20160920_v86-43595277.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.06-advice_cad_20160920_v86.pdf",
+    "bytes": 15592886,
+    "sha256": "43595277bb58447dd8f42b4578f84464041ffc5251cc2d3565068c3345e1900f",
+    "downloaded_at": "2026-11-03T18:49:27"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.09-advice_cad_20160224.pdf": {
+    "file": "pdf/7.1.2.09-advice_cad_20160224-d4d83149.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.09-advice_cad_20160224.pdf",
+    "bytes": 5986996,
+    "sha256": "d4d831490a376121e2cfc794b1f816645bb5fb23a83822563c2a49372b545ac6",
+    "downloaded_at": "2026-11-03T18:49:29"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.10-advice_cad_20160108.pdf": {
+    "file": "pdf/7.1.2.10-advice_cad_20160108-7c4157a5.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.10-advice_cad_20160108.pdf",
+    "bytes": 6087554,
+    "sha256": "7c4157a540783281215bcd476bc05c96140ffd1200bbe60ea72f0f374f08adaf",
+    "downloaded_at": "2026-11-03T18:49:30"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.11-advice_cad_20151203_v98.pdf": {
+    "file": "pdf/7.1.2.11-advice_cad_20151203_v98-7036ec99.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.11-advice_cad_20151203_v98.pdf",
+    "bytes": 978875,
+    "sha256": "7036ec999250883dfc826c395188986300d542b17bb4416cf570a63cac94c535",
+    "downloaded_at": "2026-11-03T18:49:31"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.12-advice_cad_20140825.pdf": {
+    "file": "pdf/7.1.2.12-advice_cad_20140825-0f9939e1.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.12-advice_cad_20140825.pdf",
+    "bytes": 865572,
+    "sha256": "0f9939e1f12c39562cbb91594c41cd14e969ae08e877deda4309748d3ab19741",
+    "downloaded_at": "2026-11-03T18:49:32"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.16-advice_cad_20131028.pdf": {
+    "file": "pdf/7.1.2.16-advice_cad_20131028-03ac27ef.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.16-advice_cad_20131028.pdf",
+    "bytes": 21692220,
+    "sha256": "03ac27ef90ab792d91ef4d6ffff624033075ce524c2b1ad035a85f9a3d9c2bd5",
+    "downloaded_at": "2026-11-03T18:49:33"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.19-advice_cad_20121024.pdf": {
+    "file": "pdf/7.1.2.19-advice_cad_20121024-a24d5cdd.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.19-advice_cad_20121024.pdf",
+    "bytes": 1410327,
+    "sha256": "a24d5cdd0f0b467e8b53217457aa529bfacb0ea7e75e1988030036ceeceedd7f",
+    "downloaded_at": "2026-11-03T18:49:34"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.20-advice_cad_20120321.pdf": {
+    "file": "pdf/7.1.2.20-advice_cad_20120321-b618b29b.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.20-advice_cad_20120321.pdf",
+    "bytes": 228618,
+    "sha256": "b618b29b6bfbd43ca40b773c56aa2b9df610a1a4b3a13746b2bbbbaebe3f49f6",
+    "downloaded_at": "2026-11-03T18:49:35"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.26-advice_cad_div_20010924.pdf": {
+    "file": "pdf/7.1.2.26-advice_cad_div_20010924-02b580e6.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.26-advice_cad_div_20010924.pdf",
+    "bytes": 111041,
+    "sha256": "02b580e6385306b6debe5aadd559e7ffe0a3d938c24a2ca45a2a017ccad9d164",
+    "downloaded_at": "2026-11-03T18:49:36"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.27-advice_cad_pos_20010924.pdf": {
+    "file": "pdf/7.1.2.27-advice_cad_pos_20010924-81fed4fc.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.2.27-advice_cad_pos_20010924.pdf",
+    "bytes": 93965,
+    "sha256": "81fed4fc0b5a0c3867fd73ad8bd35a085214c1400d88248caefd1a7426d335d7",
+    "downloaded_at": "2026-11-03T18:49:37"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.3.02-advice_cpd_20040930.pdf": {
+    "file": "pdf/7.1.3.02-advice_cpd_20040930-7d1af62a.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.1.3.02-advice_cpd_20040930.pdf",
+    "bytes": 592724,
+    "sha256": "7d1af62abf7644800c699d72b2375659dca0894e463415af88d74d24397d9d08",
+    "downloaded_at": "2026-11-03T18:49:39"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.01-acc_20250930_v246.pdf": {
+    "file": "pdf/7.2.2.01-acc_20250930_v246-3a52927b.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.01-acc_20250930_v246.pdf",
+    "bytes": 2806529,
+    "sha256": "3a52927bc3930874f74025f8b82fa8227910967b39460181b0f77e16dc6cc512",
+    "downloaded_at": "2026-11-03T18:49:40"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.04-guideline_cad_25670109_v78910.pdf": {
+    "file": "pdf/7.2.2.04-guideline_cad_25670109_v78910-5e7783c7.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.04-guideline_cad_25670109_v78910.pdf",
+    "bytes": 1958494,
+    "sha256": "5e7783c700d3201e1fb37d33ba98b37399108f2f0cb7d32fdd40102cd25b5f88",
+    "downloaded_at": "2026-11-03T18:49:41"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.09-guideline_cad_25640921_v5960.pdf": {
+    "file": "pdf/7.2.2.09-guideline_cad_25640921_v5960-ad9cb821.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.09-guideline_cad_25640921_v5960.pdf",
+    "bytes": 2706738,
+    "sha256": "ad9cb82155911bf7ea2a2be8253dda9a02401a1c03c2afc8c3c005710cc261b7",
+    "downloaded_at": "2026-11-03T18:49:42"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.10-guideline_cad_25660628_v40.pdf": {
+    "file": "pdf/7.2.2.10-guideline_cad_25660628_v40-1a7d2f1d.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.10-guideline_cad_25660628_v40.pdf",
+    "bytes": 1396901,
+    "sha256": "1a7d2f1d1bc74f37a37518d29bc54a958ad53d77af0e4d2393e1be729db7b51c",
+    "downloaded_at": "2026-11-03T18:49:43"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.15-guideline_cad_25641112_v76.pdf": {
+    "file": "pdf/7.2.2.15-guideline_cad_25641112_v76-08c00ee4.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.15-guideline_cad_25641112_v76.pdf",
+    "bytes": 4633623,
+    "sha256": "08c00ee4522796cecb38cca013b05d9a7c81888ef829dd1dc4ea8cf83745a81f",
+    "downloaded_at": "2026-11-03T18:49:44"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.17-guideline_cad_25640921.pdf": {
+    "file": "pdf/7.2.2.17-guideline_cad_25640921-150efa08.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.17-guideline_cad_25640921.pdf",
+    "bytes": 6720676,
+    "sha256": "150efa0869b9bc64375ade8268c7fce0490490294e90cee879fd660aed31d139",
+    "downloaded_at": "2026-11-03T18:49:45"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.18-guideline_cad_25640907_v53.pdf": {
+    "file": "pdf/7.2.2.18-guideline_cad_25640907_v53-4919f281.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.18-guideline_cad_25640907_v53.pdf",
+    "bytes": 3553693,
+    "sha256": "4919f281012ad10be59090568a16ba96a0060612611bfe7f4ab3ee1b19421938",
+    "downloaded_at": "2026-11-03T18:49:46"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.20-guideline_cad_256400401_v26.pdf": {
+    "file": "pdf/7.2.2.20-guideline_cad_256400401_v26-7d51961f.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.20-guideline_cad_256400401_v26.pdf",
+    "bytes": 733391,
+    "sha256": "7d51961f626a4f25d5e5360f8e13f4cf4260fc2d13ce3ce9ef769c17fe621244",
+    "downloaded_at": "2026-11-03T18:49:47"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.21-guideline_cad_25640326_v22.pdf": {
+    "file": "pdf/7.2.2.21-guideline_cad_25640326_v22-e53c80fa.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.21-guideline_cad_25640326_v22.pdf",
+    "bytes": 2211152,
+    "sha256": "e53c80facb131b04fbde51202503b9e2fd88863a9f77a8e5279d01d5fade6a60",
+    "downloaded_at": "2026-11-03T18:49:48"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.23-guideline_cad_25631230_v92.pdf": {
+    "file": "pdf/7.2.2.23-guideline_cad_25631230_v92-d4596c6e.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.23-guideline_cad_25631230_v92.pdf",
+    "bytes": 877931,
+    "sha256": "d4596c6e1f48ab2f2ea8bab03e1af155804fc19fc8db34afceed6c8c31f8e1f3",
+    "downloaded_at": "2026-11-03T18:49:50"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.28-guideline_cad_25630512_v26.pdf": {
+    "file": "pdf/7.2.2.28-guideline_cad_25630512_v26-20461a75.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.28-guideline_cad_25630512_v26.pdf",
+    "bytes": 533992,
+    "sha256": "20461a75ace2876e659af50714d728836e2d8de3c486ddb5565a20e5dbf67b1b",
+    "downloaded_at": "2026-11-03T18:49:51"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.37-guideline_cad_25610212_338.pdf": {
+    "file": "pdf/7.2.2.37-guideline_cad_25610212_338-6a3a8237.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.37-guideline_cad_25610212_338.pdf",
+    "bytes": 1064763,
+    "sha256": "6a3a8237397654c7ef7867c05759d72efe5a41cf2cdd5040062526f85eb8e101",
+    "downloaded_at": "2026-11-03T18:49:52"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.43-guideline_cad_25601219_v181.pdf": {
+    "file": "pdf/7.2.2.43-guideline_cad_25601219_v181-b834c954.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.43-guideline_cad_25601219_v181.pdf",
+    "bytes": 3735954,
+    "sha256": "b834c954a54adafb1782396c86be11627e8f2d8a7f5ff379dcbd3a894a9f1239",
+    "downloaded_at": "2026-11-03T18:49:53"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.44-guideline_cad_25601214_v179.pdf": {
+    "file": "pdf/7.2.2.44-guideline_cad_25601214_v179-8c854f29.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.44-guideline_cad_25601214_v179.pdf",
+    "bytes": 325816,
+    "sha256": "8c854f290f073124f280f46ccbf8cc36c991934ae8b0f857389cf8771fec998b",
+    "downloaded_at": "2026-11-03T18:49:54"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.45-guideline_cad_25601213_v175.pdf": {
+    "file": "pdf/7.2.2.45-guideline_cad_25601213_v175-c3ba45db.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.45-guideline_cad_25601213_v175.pdf",
+    "bytes": 2985778,
+    "sha256": "c3ba45dbd2cd70101e5946988c785783a5db49a51b4d70236b6c1f1ee2d8a482",
+    "downloaded_at": "2026-11-03T18:49:55"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.60-guideline_cad_25600322_v38.pdf": {
+    "file": "pdf/7.2.2.60-guideline_cad_25600322_v38-0ebfa027.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.60-guideline_cad_25600322_v38.pdf",
+    "bytes": 4918396,
+    "sha256": "0ebfa027a5c95db443dabf6006e4c46d906c3a7054c76c5a5feb0fdadfb16a11",
+    "downloaded_at": "2026-11-03T18:49:56"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.61-guideline_cad_25600322_v40.pdf": {
+    "file": "pdf/7.2.2.61-guideline_cad_25600322_v40-4e4df348.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.61-guideline_cad_25600322_v40.pdf",
+    "bytes": 631091,
+    "sha256": "4e4df348ed5eb0784f74d052df5a830025cae3905a971bb952f8fb7aa6b590eb",
+    "downloaded_at": "2026-11-03T18:49:57"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.63-guideline_cad_25600216_v22.pdf": {
+    "file": "pdf/7.2.2.63-guideline_cad_25600216_v22-559d5b7f.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.63-guideline_cad_25600216_v22.pdf",
+    "bytes": 13524907,
+    "sha256": "559d5b7f9ad222dc23e0c0d9f76d993417f1c12c6400ea05a4cccc04b18809a4",
+    "downloaded_at": "2026-11-03T18:49:58"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.64-guideline_cad_25600125_v9.pdf": {
+    "file": "pdf/7.2.2.64-guideline_cad_25600125_v9-877ac361.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.64-guideline_cad_25600125_v9.pdf",
+    "bytes": 880289,
+    "sha256": "877ac3619356e4d580b265a85b0df6391fc586fd08bdaec74aea7712e0bf2ceb",
+    "downloaded_at": "2026-11-03T18:49:59"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.65-guideline_cad_25580106_v2.pdf": {
+    "file": "pdf/7.2.2.65-guideline_cad_25580106_v2-1d7e245c.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.65-guideline_cad_25580106_v2.pdf",
+    "bytes": 1116204,
+    "sha256": "1d7e245c3c70ade99a351214dfe66349d617b8747be5daeaf31d5cf9ff45bf87",
+    "downloaded_at": "2026-11-03T18:50:01"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.69-guideline_cad_25590405_v26.pdf": {
+    "file": "pdf/7.2.2.69-guideline_cad_25590405_v26-5d0ea3a6.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.69-guideline_cad_25590405_v26.pdf",
+    "bytes": 2646491,
+    "sha256": "5d0ea3a65116f17b6a40ad2da557c0a402fe956d471055a8be3e40e7f5d3fb8b",
+    "downloaded_at": "2026-11-03T18:50:02"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.70-guideline_cad_25590211_v13.pdf": {
+    "file": "pdf/7.2.2.70-guideline_cad_25590211_v13-bae54bc7.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.70-guideline_cad_25590211_v13.pdf",
+    "bytes": 10442138,
+    "sha256": "bae54bc79fc7a50e0a7f4865d861f17755c77876bd99f43392ce4b85e1592acc",
+    "downloaded_at": "2026-11-03T18:50:03"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.71-guideline_cad_25590106_v2.pdf": {
+    "file": "pdf/7.2.2.71-guideline_cad_25590106_v2-74671752.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.71-guideline_cad_25590106_v2.pdf",
+    "bytes": 932139,
+    "sha256": "74671752cfd5f4f5ef477c95d2dbeff051a2b39f609da4b31bbb1ffb992dae63",
+    "downloaded_at": "2026-11-03T18:50:04"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.72-guideline_cad_25580526_v46.pdf": {
+    "file": "pdf/7.2.2.72-guideline_cad_25580526_v46-098e0915.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.72-guideline_cad_25580526_v46.pdf",
+    "bytes": 5860801,
+    "sha256": "098e0915b5c2958a99685997ad932e0fcc9b27a6fe2bc0b8f66b904bccb4db67",
+    "downloaded_at": "2026-11-03T18:50:05"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.74-guideline_cad_25580416_v38.pdf": {
+    "file": "pdf/7.2.2.74-guideline_cad_25580416_v38-5ae5d586.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.74-guideline_cad_25580416_v38.pdf",
+    "bytes": 105343,
+    "sha256": "5ae5d5867a57103c54cc395cceb1481178701d954460d41e861587b479770bf4",
+    "downloaded_at": "2026-11-03T18:50:06"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.75-guideline_cad_25580317_v29.pdf": {
+    "file": "pdf/7.2.2.75-guideline_cad_25580317_v29-f8a90038.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.75-guideline_cad_25580317_v29.pdf",
+    "bytes": 15078906,
+    "sha256": "f8a900387daac61e459b777fc111dcd5c705dc692e2340fa184d48ab4bc2f01e",
+    "downloaded_at": "2026-11-03T18:50:07"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.77-guideline_cad_25580316.pdf": {
+    "file": "pdf/7.2.2.77-guideline_cad_25580316-9fc06afc.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.77-guideline_cad_25580316.pdf",
+    "bytes": 568179,
+    "sha256": "9fc06afce63b4306ae6657e6540f98e0411135f1c395fb83fd7322b58cc804aa",
+    "downloaded_at": "2026-11-03T18:50:08"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.78-guideline_cad_25580112_v7.pdf": {
+    "file": "pdf/7.2.2.78-guideline_cad_25580112_v7-0ba8a6a2.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.78-guideline_cad_25580112_v7.pdf",
+    "bytes": 1778573,
+    "sha256": "0ba8a6a22bddd35a386990eec938434b04440bde5b9bd14239e7624f7f8b1e26",
+    "downloaded_at": "2026-11-03T18:50:09"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.79-guideline_cad_25580106_v1.pdf": {
+    "file": "pdf/7.2.2.79-guideline_cad_25580106_v1-4f71e420.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.79-guideline_cad_25580106_v1.pdf",
+    "bytes": 2506057,
+    "sha256": "4f71e420b587714494971d5619539dfd41d5608694674603a728b81295a4e29a",
+    "downloaded_at": "2026-11-03T18:50:10"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.84-guideline_cad_25550430.pdf": {
+    "file": "pdf/7.2.2.84-guideline_cad_25550430-46225842.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.84-guideline_cad_25550430.pdf",
+    "bytes": 1688475,
+    "sha256": "4622584287bfca1c43f7f36cca745d595037eeb520110a261116140e2cf0a408",
+    "downloaded_at": "2026-11-03T18:50:12"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.85-guideline_cad_25550417_v39.pdf": {
+    "file": "pdf/7.2.2.85-guideline_cad_25550417_v39-4b388a0c.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.2.2.85-guideline_cad_25550417_v39.pdf",
+    "bytes": 1565227,
+    "sha256": "4b388a0c4dc0689bf246c84fce8349dd4c00e7dc36165535de83eee851ec7b4c",
+    "downloaded_at": "2026-11-03T18:50:13"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.1.7-%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%94.pdf": {
+    "file": "pdf/7.4.1.7-งบกระแสเงินสด-673a2977.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.1.7-%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%94.pdf",
+    "bytes": 3991493,
+    "sha256": "673a2977a5b4299db202298c626f21ad43dbc57d868654c40b8bbbf466c9b1dc",
+    "downloaded_at": "2026-11-03T18:50:14"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.4.2-manual_acc_20190501.pdf": {
+    "file": "pdf/7.4.4.2-manual_acc_20190501-704ae16c.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.4.2-manual_acc_20190501.pdf",
+    "bytes": 1129317,
+    "sha256": "704ae16cd8a0ef7cebacc78cf2b4701cdbc276f7877db5b209a508a056fc4ed4",
+    "downloaded_at": "2026-11-03T18:50:15"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.4.4-manual_acc_201405.pdf": {
+    "file": "pdf/7.4.4.4-manual_acc_201405-214a06aa.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.4.4-manual_acc_201405.pdf",
+    "bytes": 2398581,
+    "sha256": "214a06aacda284358ea110141ac20be917d6bd990969b3b2e7d7cb8c1aaddedc",
+    "downloaded_at": "2026-11-03T18:50:16"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.4.9-manual_acc_200610.pdf": {
+    "file": "pdf/7.4.4.9-manual_acc_200610-b127ae37.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.4.9-manual_acc_200610.pdf",
+    "bytes": 1891815,
+    "sha256": "b127ae370f44fe4ed62ac4c67f3b9fcc923602e097bea11e2a638f2764047daa",
+    "downloaded_at": "2026-11-03T18:50:17"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.5.1-manual_finan_20140224_v1160.pdf": {
+    "file": "pdf/7.4.5.1-manual_finan_20140224_v1160-05e1d019.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.5.1-manual_finan_20140224_v1160.pdf",
+    "bytes": 731953,
+    "sha256": "05e1d01998d12820a909338784ed16240a74f5e9dc12c5eb7e4bfe0ed67d4012",
+    "downloaded_at": "2026-11-03T18:50:18"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.5.2-manual_finan_20140224.pdf": {
+    "file": "pdf/7.4.5.2-manual_finan_20140224-82feb876.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2025/12/7.4.5.2-manual_finan_20140224.pdf",
+    "bytes": 1634503,
+    "sha256": "82feb876495a8ea8687a527d905a41e96477d0accb703940dd49e3e98aec1480",
+    "downloaded_at": "2026-11-03T18:50:19"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/1.-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-21112526.pdf": {
+    "file": "pdf/1.-สถาบันการเงิน-21112526-3eeb607b.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/1.-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-21112526.pdf",
+    "bytes": 29308,
+    "sha256": "3eeb607b808137a5b73e7b76e33cae5d387fed2a71dc37559506c5fc57e4a2ed",
+    "downloaded_at": "2026-11-03T18:50:20"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/2.-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-13072550.pdf": {
+    "file": "pdf/2.-สถาบันการเงิน-13072550-01c95fac.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/2.-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-13072550.pdf",
+    "bytes": 63748,
+    "sha256": "01c95fac8fcf8be9b6fd5d99f13d572770901ff98b2620f22942238c50e20dde",
+    "downloaded_at": "2026-11-03T18:50:21"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/4.3.04-an_cad_25640112_v5-%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81.pdf": {
+    "file": "pdf/4.3.04-an_cad_25640112_v5-ยกเลิก-c6360bb9.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/4.3.04-an_cad_25640112_v5-%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81.pdf",
+    "bytes": 888855,
+    "sha256": "c6360bb915cf165ebc3303503e84b07bd96e303044294d9aef3a68a2c38355f9",
+    "downloaded_at": "2026-11-03T18:50:22"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.01-67_cad_1-2567.pdf": {
+    "file": "pdf/5.2.01-67_cad_1-2567-fb6e1490.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.01-67_cad_1-2567.pdf",
+    "bytes": 58397,
+    "sha256": "fb6e1490e99da883c2e23093969b8009c4a1048ae8beb651e4702648518b2a8a",
+    "downloaded_at": "2026-11-03T18:50:23"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.19-download2_2557.pdf": {
+    "file": "pdf/5.2.19-download2_2557-3f9c9cc1.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.19-download2_2557.pdf",
+    "bytes": 548628,
+    "sha256": "3f9c9cc129c2efa68e94e23ab82eaa737c5cfd7dfb570a323bfb348714bcd7a9",
+    "downloaded_at": "2026-11-03T18:50:26"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.32-download460_2548.pdf": {
+    "file": "pdf/5.2.32-download460_2548-49b66810.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.32-download460_2548.pdf",
+    "bytes": 30908,
+    "sha256": "49b66810921704457bd6f5862ad97d7105750a465fcf4be686c730b587114d3c",
+    "downloaded_at": "2026-11-03T18:50:27"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.38-download146_2546.pdf": {
+    "file": "pdf/5.2.38-download146_2546-bc89e57a.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/5.2.38-download146_2546.pdf",
+    "bytes": 190939,
+    "sha256": "bc89e57a9739d4b6b8292e77449536ed4eee8263927bc8a7836c40f6445004f4",
+    "downloaded_at": "2026-11-03T18:50:28"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/01/7.2.2.25-guideline_cad_25631208_v83.pdf": {
+    "file": "pdf/7.2.2.25-guideline_cad_25631208_v83-5250c08d.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/01/7.2.2.25-guideline_cad_25631208_v83.pdf",
+    "bytes": 1217730,
+    "sha256": "5250c08d2aa571a7058c77e5f8c531d6df807cec72d4e2c8fecb05b1be732443",
+    "downloaded_at": "2026-11-03T18:50:29"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/02/6.01.12-download0910_2563_1%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A.pdf": {
+    "file": "pdf/6.01.12-download0910_2563_1ระเบียบ-bdc47536.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/02/6.01.12-download0910_2563_1%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A.pdf",
+    "bytes": 264441,
+    "sha256": "bdc4753633c571fd2d3d77508180b2527b9534484f5f1a1f77f2f7c7ce3b18c8",
+    "downloaded_at": "2026-11-03T18:50:30"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/02/7.1.1.02-advice_reg_20160325.pdf": {
+    "file": "pdf/7.1.1.02-advice_reg_20160325-e44d554b.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/02/7.1.1.02-advice_reg_20160325.pdf",
+    "bytes": 447495,
+    "sha256": "e44d554b1d4ee454f22286edd2eae348ff3c5bffc5884eebd4e443b6370188d4",
+    "downloaded_at": "2026-11-03T18:50:31"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/02/7.1.1.06-advice_reg_20110613.pdf": {
+    "file": "pdf/7.1.1.06-advice_reg_20110613-24916a8f.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/02/7.1.1.06-advice_reg_20110613.pdf",
+    "bytes": 566599,
+    "sha256": "24916a8f943a8af5498d94000375c974fedcd81c1b60ff45910800d387467693",
+    "downloaded_at": "2026-11-03T18:50:32"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/03/23.-%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A-%E0%B8%99%E0%B8%97%E0%B8%AA.-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B8%8B%E0%B8%B7.pdf": {
+    "file": "pdf/23.-ระเบียบ-นทส.-หลักเกณฑ์การให้ความเห็นชอบซื-b5766c83.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/03/23.-%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A-%E0%B8%99%E0%B8%97%E0%B8%AA.-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B8%8B%E0%B8%B7.pdf",
+    "bytes": 87536,
+    "sha256": "b5766c837e3abc251675ff6067deb9b9428f2cb184185e0685755ed593417e03",
+    "downloaded_at": "2026-11-03T18:50:33"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/03/24.-2568-17122568.pdf": {
+    "file": "pdf/24.-2568-17122568-3ef4f461.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/03/24.-2568-17122568.pdf",
+    "bytes": 166217,
+    "sha256": "3ef4f461e2d0b15539fdb7202cb492dd83d08e1fc1ca26738ff2325d4b88fe7a",
+    "downloaded_at": "2026-11-03T18:50:34"
+  },
+  "https://www.cad.go.th/wp-content/uploads/2026/05/7.1.2.07-advice_cad_20171218.pdf": {
+    "file": "pdf/7.1.2.07-advice_cad_20171218-0ec8d2bf.pdf",
+    "final_url": "https://www.cad.go.th/wp-content/uploads/2026/05/7.1.2.07-advice_cad_20171218.pdf",
+    "bytes": 4507613,
+    "sha256": "0ec8d2bf149750808462475b0a5e3f1f716673c676a7da338d94055ee250459a",
+    "downloaded_at": "2026-11-03T18:50:35"
+  }
+}
